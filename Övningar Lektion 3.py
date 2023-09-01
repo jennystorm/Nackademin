@@ -104,7 +104,7 @@ elif dice == 6:
 
 country = input("Skriv ett land som tillhör Norden eller Storbrittanien: ")
 
-if country.casefold() == "danmark" or country.casefold() == "finland" or country.casefold() == "island" or country.casefold() =="sverige":
+if country.casefold() == "danmark" or country.casefold() == "finland" or country.casefold() == "island" or country.casefold() =="sverige" or country.casefold() == "norge":
     print (country.capitalize(), "tillhör Norden.")
 elif country.casefold() == "england" or country.casefold() == "nordirland" or country.casefold() == "skottland" or country.casefold() == "wales":
     print (country.capitalize(), "tillhör Storbrittanien.")
