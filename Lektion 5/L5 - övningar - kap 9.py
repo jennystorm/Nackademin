@@ -1,6 +1,5 @@
 kosmetika = 50
-
-
+"""
 # Övningsuppgift 9.1
 
 infotext_1 = "Programmet räknar ut summan av\nalla heltal mellan 0-100000\nsamt summan av alla udda \nheltal mellan 0-500."
@@ -74,6 +73,7 @@ for i in todos:
 
 print ("\n")
 
+"""
 
 # Övningsuppgift 9.5
 
